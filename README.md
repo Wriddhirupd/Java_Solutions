@@ -1,1 +1,1 @@
-# Hackerrank_Solutions
+# Java Basic Solutions
